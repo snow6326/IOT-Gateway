@@ -1,0 +1,24 @@
+0,AM2320 Temperature and Humidity Sensor,Temperature,Relative Humidity
+1,BMP180 Pressure Sensor,Altitude,Pressure,Reference Temperature
+2,MQ-2 Gas Sensor,H2,LPG,CH4,CO,Alcohol,Smoke,Propane
+3,MQ-3 Gas Sensor,Alcohol,Benzine,CH4,Hexane,LPG,CO
+4,MQ-4 Gas Sensor,LPG,CH4,H2,CO,Alcohol,Smoke
+5,MQ-5 Gas Sensor,H2,LPG,CH4,CO,Alcohol
+6,MQ-6 Gas Sensor,LPG,H2,CH4,CO,Alcohol
+7,MQ-7 Gas Sensor,CO,H2,LPG,CH4,Alcohol
+8,MQ-8 Gas Sensor,H2,LPG,CH4,CO,Alcohol
+9,MQ-9 Gas Sensor,LPG,CO,CH4
+10,MQ-131 Gas Sensor,NOx,CL2,O3
+11,MQ-135 Gas Sensor,CO2,CO,Alcohol,NH4,Toluero,Acetona
+12,MQ-136 Gas Sensor,CO,NH4,H2S
+13,MQ-137 Gas Sensor,CO,C2H6O,NH3
+14,MQ-138 Gas Sensor,Benzene,n-Hexane,CH4,CO,Alcohol,Propane
+15,GUVA-S12SD UV Sensor,UV Index,
+16,AS3935 Lightning Detector,,
+17,MG-812 CO2 Gas Sensor,CO2,
+18,MG-822 O2 Gas Sensor,O2,
+19,Fiber Optic Illuminator,,
+20,Digital Signage,,
+21,HC-SR501 Motion sensor,,
+22,SBM-20 Ionizing Radiation Sensor,,
+23,2-Axis FPV,,
