@@ -8,7 +8,7 @@ using namespace std;
 #define INTERFACE AF_INET
 #define PROTOCOL SOCK_STREAM
 #define IP_ADDRESS "0.0.0.0"
-#define PORT 7777
+#define PORT 777
 
 int main (void)
 {

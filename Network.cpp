@@ -38,7 +38,7 @@ void Network::socket_init(void)
 	int opt = 1;
 	if (setsockopt(sockfd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &opt, sizeof(opt)) != 0)
 	{
-		cout << "socket option error" << endl;
+		cout << "Fail to setup the option of socket" << endl;
 		exit(EXIT_FAILURE);
 	}
 
